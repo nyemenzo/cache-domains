@@ -95,7 +95,8 @@
 		{
 			"name": "garena",
 			"description": "CDN for Garena Games",
-			"domain_files": ["garena.txt"]
+			"domain_files": ["garena.txt"],
+			"mixed_content": true
 		},
 		{
 			"name": "xboxlive",
