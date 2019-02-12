@@ -55,7 +55,8 @@
 		{
 			"name": "riot",
 			"description": "CDN for riot games",
-			"domain_files": ["riot.txt"]
+			"domain_files": ["riot.txt"],
+			"mixed_content": true
 		},
 		{
 			"name": "rockstar",
