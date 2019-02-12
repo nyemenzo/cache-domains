@@ -103,7 +103,12 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"],
 			"mixed_content": true
-		}
+		},
+		{
+			"name": "gameclub",
+			"description": "CDN for Gameclub Games",
+			"domain_files": ["gameclub.txt"]
+		},
 	]
 }
 
