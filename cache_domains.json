@@ -108,7 +108,7 @@
 			"name": "gameclub",
 			"description": "CDN for Gameclub Games",
 			"domain_files": ["gameclub.txt"]
-		},
+		}
 	]
 }
 
