@@ -94,10 +94,9 @@
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
-			"name": "garena",
-			"description": "CDN for Garena Games",
-			"domain_files": ["garena.txt"],
-			"mixed_content": true
+			"name": "netease",
+			"description": "CDN for Neatease Games",
+			"domain_files": ["neatease.txt"],
 		},
 		{
 			"name": "xboxlive",
