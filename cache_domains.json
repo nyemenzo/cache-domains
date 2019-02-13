@@ -95,8 +95,8 @@
 		},
 		{
 			"name": "netease",
-			"description": "CDN for Neatease Games",
-			"domain_files": ["neatease.txt"],
+			"description": "CDN for Netease Games",
+			"domain_files": ["netease.txt"]
 		},
 		{
 			"name": "xboxlive",
