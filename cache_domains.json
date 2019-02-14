@@ -108,6 +108,11 @@
 			"name": "gameclub",
 			"description": "CDN for Gameclub Games",
 			"domain_files": ["gameclub.txt"]
+		},
+		{
+			"name": "pubglite",
+			"description": "CDN for PUBG Lite Edition Games",
+			"domain_files": ["pubglite.txt"]
 		}
 	]
 }
