@@ -114,7 +114,13 @@
 			"description": "CDN for Garena Games",
 			"domain_files": ["garena.txt"],
 			"mixed_content": true
+		},
+		{
+			"name": "bluestacks",
+			"description": "CDN for Bluestacks Emulator",
+			"domain_files": ["bluestacks.txt"]
 		}
+		
 	]
 }
 
