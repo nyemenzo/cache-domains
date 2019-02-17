@@ -2,3 +2,4 @@ cdn3.bluestacks.com
 cloud.bluestacks.com
 wscdn.ml.youngjoygame.com
 static.yuanzhanapp.com
+c3cdn.ml.youngjoygame.com
