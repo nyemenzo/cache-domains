@@ -119,6 +119,11 @@
 			"name": "bluestacks",
 			"description": "CDN for Bluestacks Emulator",
 			"domain_files": ["bluestacks.txt"]
+		},
+		{
+			"name": "playpark",
+			"description": "CDN for Play Park Games",
+			"domain_files": ["playpark.txt"]
 		}
 		
 	]
